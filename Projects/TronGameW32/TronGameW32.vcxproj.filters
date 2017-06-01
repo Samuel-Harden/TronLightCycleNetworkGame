@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\LightCycleSates">
+      <UniqueIdentifier>{a6c823ee-9611-44d3-ba2e-f852b800ea8b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\LightCycleStates">
+      <UniqueIdentifier>{1f5706cc-71b0-4dbf-853b-b0cacdddc36a}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Code\Game\TronGame.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Code\Game\LightZone.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Code\Game\Tile.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Code\Game\GameObject.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Code\Game\LightCycle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Code\Game\CycleStateDown.cpp">
+      <Filter>Source Files\LightCycleStates</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Code\Game\CycleStateLeft.cpp">
+      <Filter>Source Files\LightCycleStates</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Code\Game\CycleStateRight.cpp">
+      <Filter>Source Files\LightCycleStates</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Code\Game\CycleStateUp.cpp">
+      <Filter>Source Files\LightCycleStates</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Code\Game\LightCycleState.cpp">
+      <Filter>Source Files\LightCycleStates</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Code\Game\TronGame.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Code\Game\LightZone.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Code\Game\Tile.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Code\Game\GameObject.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Code\Game\LightCycle.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Code\Game\CycleStateDown.h">
+      <Filter>Header Files\LightCycleSates</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Code\Game\CycleStateLeft.h">
+      <Filter>Header Files\LightCycleSates</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Code\Game\CycleStateRight.h">
+      <Filter>Header Files\LightCycleSates</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Code\Game\CycleStateUp.h">
+      <Filter>Header Files\LightCycleSates</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Code\Game\LightCycleState.h">
+      <Filter>Header Files\LightCycleSates</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,29 @@
+﻿  TronServerW32.cpp
+  stdafx.cpp
+  Server.cpp
+  Client.cpp
+  Generating Code...
+  TronServerW32.vcxproj -> D:\Documents\Visual Studio 2015\Projects\Year 2\Low Level Programming\TronTake2\Builds\Debug\TronServerW32.exe
+  D:\Documents\Visual Studio 2015\Projects\Year 2\Low Level Programming\TronTake2\Libs\SFML-2.4.2\bin\openal32.dll -> D:\Documents\Visual Studio 2015\Projects\Year 2\Low Level Programming\TronTake2\Builds\Debug\openal32.dll
+  D:\Documents\Visual Studio 2015\Projects\Year 2\Low Level Programming\TronTake2\Libs\SFML-2.4.2\bin\sfml-audio-2.dll -> D:\Documents\Visual Studio 2015\Projects\Year 2\Low Level Programming\TronTake2\Builds\Debug\sfml-audio-2.dll
+  D:\Documents\Visual Studio 2015\Projects\Year 2\Low Level Programming\TronTake2\Libs\SFML-2.4.2\bin\sfml-audio-d-2.dll -> D:\Documents\Visual Studio 2015\Projects\Year 2\Low Level Programming\TronTake2\Builds\Debug\sfml-audio-d-2.dll
+  D:\Documents\Visual Studio 2015\Projects\Year 2\Low Level Programming\TronTake2\Libs\SFML-2.4.2\bin\sfml-graphics-2.dll -> D:\Documents\Visual Studio 2015\Projects\Year 2\Low Level Programming\TronTake2\Builds\Debug\sfml-graphics-2.dll
+  D:\Documents\Visual Studio 2015\Projects\Year 2\Low Level Programming\TronTake2\Libs\SFML-2.4.2\bin\sfml-graphics-d-2.dll -> D:\Documents\Visual Studio 2015\Projects\Year 2\Low Level Programming\TronTake2\Builds\Debug\sfml-graphics-d-2.dll
+  D:\Documents\Visual Studio 2015\Projects\Year 2\Low Level Programming\TronTake2\Libs\SFML-2.4.2\bin\sfml-network-2.dll -> D:\Documents\Visual Studio 2015\Projects\Year 2\Low Level Programming\TronTake2\Builds\Debug\sfml-network-2.dll
+  D:\Documents\Visual Studio 2015\Projects\Year 2\Low Level Programming\TronTake2\Libs\SFML-2.4.2\bin\sfml-network-d-2.dll -> D:\Documents\Visual Studio 2015\Projects\Year 2\Low Level Programming\TronTake2\Builds\Debug\sfml-network-d-2.dll
+  D:\Documents\Visual Studio 2015\Projects\Year 2\Low Level Programming\TronTake2\Libs\SFML-2.4.2\bin\sfml-system-2.dll -> D:\Documents\Visual Studio 2015\Projects\Year 2\Low Level Programming\TronTake2\Builds\Debug\sfml-system-2.dll
+  D:\Documents\Visual Studio 2015\Projects\Year 2\Low Level Programming\TronTake2\Libs\SFML-2.4.2\bin\sfml-system-d-2.dll -> D:\Documents\Visual Studio 2015\Projects\Year 2\Low Level Programming\TronTake2\Builds\Debug\sfml-system-d-2.dll
+  D:\Documents\Visual Studio 2015\Projects\Year 2\Low Level Programming\TronTake2\Libs\SFML-2.4.2\bin\sfml-window-2.dll -> D:\Documents\Visual Studio 2015\Projects\Year 2\Low Level Programming\TronTake2\Builds\Debug\sfml-window-2.dll
+  D:\Documents\Visual Studio 2015\Projects\Year 2\Low Level Programming\TronTake2\Libs\SFML-2.4.2\bin\sfml-window-d-2.dll -> D:\Documents\Visual Studio 2015\Projects\Year 2\Low Level Programming\TronTake2\Builds\Debug\sfml-window-d-2.dll
+  11 File(s) copied
+  D:\Documents\Visual Studio 2015\Projects\Year 2\Low Level Programming\TronTake2\Resources\AButton.png -> D:\Documents\Visual Studio 2015\Projects\Year 2\Low Level Programming\TronTake2\Builds\Debug\Resources\AButton.png
+  D:\Documents\Visual Studio 2015\Projects\Year 2\Low Level Programming\TronTake2\Resources\BAUHS93.ttf -> D:\Documents\Visual Studio 2015\Projects\Year 2\Low Level Programming\TronTake2\Builds\Debug\Resources\BAUHS93.ttf
+  D:\Documents\Visual Studio 2015\Projects\Year 2\Low Level Programming\TronTake2\Resources\BButton.png -> D:\Documents\Visual Studio 2015\Projects\Year 2\Low Level Programming\TronTake2\Builds\Debug\Resources\BButton.png
+  D:\Documents\Visual Studio 2015\Projects\Year 2\Low Level Programming\TronTake2\Resources\LeftStick.png -> D:\Documents\Visual Studio 2015\Projects\Year 2\Low Level Programming\TronTake2\Builds\Debug\Resources\LeftStick.png
+  D:\Documents\Visual Studio 2015\Projects\Year 2\Low Level Programming\TronTake2\Resources\LightCycleAqua.png -> D:\Documents\Visual Studio 2015\Projects\Year 2\Low Level Programming\TronTake2\Builds\Debug\Resources\LightCycleAqua.png
+  D:\Documents\Visual Studio 2015\Projects\Year 2\Low Level Programming\TronTake2\Resources\LightCyclePurple.png -> D:\Documents\Visual Studio 2015\Projects\Year 2\Low Level Programming\TronTake2\Builds\Debug\Resources\LightCyclePurple.png
+  D:\Documents\Visual Studio 2015\Projects\Year 2\Low Level Programming\TronTake2\Resources\LightCycleRed.png -> D:\Documents\Visual Studio 2015\Projects\Year 2\Low Level Programming\TronTake2\Builds\Debug\Resources\LightCycleRed.png
+  D:\Documents\Visual Studio 2015\Projects\Year 2\Low Level Programming\TronTake2\Resources\LightCycleYellow.png -> D:\Documents\Visual Studio 2015\Projects\Year 2\Low Level Programming\TronTake2\Builds\Debug\Resources\LightCycleYellow.png
+  D:\Documents\Visual Studio 2015\Projects\Year 2\Low Level Programming\TronTake2\Resources\README.txt -> D:\Documents\Visual Studio 2015\Projects\Year 2\Low Level Programming\TronTake2\Builds\Debug\Resources\README.txt
+  D:\Documents\Visual Studio 2015\Projects\Year 2\Low Level Programming\TronTake2\Resources\TronSplash.png -> D:\Documents\Visual Studio 2015\Projects\Year 2\Low Level Programming\TronTake2\Builds\Debug\Resources\TronSplash.png
+  10 File(s) copied
